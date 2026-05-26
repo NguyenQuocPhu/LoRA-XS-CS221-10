@@ -317,7 +317,8 @@ instead of:
 In this project, we use the Vietnamese Students Feedback dataset:
 
 - Dataset: https://huggingface.co/datasets/uitnlp/vietnamese_students_feedback
-- Base model: https://huggingface.co/5CD-AI/Vietnamese-Sentiment-visobert
+- Dataset: https://huggingface.co/datasets/anotherpolarbear/vietnamese-sentiment-analysis/viewer/default/train?f%5Blabel%5D%5Bmin%5D=4&f%5Blabel%5D%5Bmax%5D=5
+- Base model: https://huggingface.co/FacebookAI/xlm-roberta-base
 
 ### 7.1 Prepare the Dataset
 
